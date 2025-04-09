@@ -1,4 +1,5 @@
-# esteira2023
+# Arquivos para impressão 3D da esteira do Titãs da Robótica Versão 2023.
+
 Arquivos da esteira do Ligeirinho utilizada pela equipe Titãs da Robótica em 2023.
 
 * Utilize a vontade nos seus robôs. Só pedimos que mantenham os créditos da criação pela nossa equipe.
